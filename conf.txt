@@ -1,0 +1,12 @@
+absolute_error = 0.005
+relative_error = 0.0004
+number_of_threads = 3
+start_x = -10
+end_x = 10
+start_y = -10
+end_y  = 10
+PARAMS
+m = 5
+a1 = 1,2,1,1,5
+a2 = 4,5,1,2,4
+c = 2,1,4,7,2
