@@ -1,6 +1,5 @@
 absolute_error = 0.005
 relative_error = 0.0004
-number_of_threads = 3
 start_x = -10
 end_x = 10
 start_y = -10

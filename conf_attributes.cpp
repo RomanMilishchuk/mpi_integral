@@ -28,7 +28,6 @@ IntegralAttributes *get_intArgs(const std::string &filename) {
     bool until_params = true;
     std::map<std::string, double *> conf_attributes{{"absolute_error",    &attributes->absolute_error},
                                                     {"relative_error",    &attributes->relative_error},
-                                                    {"number_of_threads", &attributes->NThreads},
                                                     {"start_x",           &attributes->x1},
                                                     {"end_x",             &attributes->x2},
                                                     {"start_y",           &attributes->y1},
