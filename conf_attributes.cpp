@@ -13,6 +13,8 @@ std::vector<double> split_and_double(const std::string &str, const char &delim) 
     return params;
 }
 
+#include <iostream>
+
 IntegralAttributes *get_intArgs(const std::string &filename) {
 /*You need to pass parameters in such way
  *  absolute_error;

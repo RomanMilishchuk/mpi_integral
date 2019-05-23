@@ -1,3 +1,1 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-langermann_func	/home/midren/Documents/ucu/axe/mpi/m1.cpp	/^langermann_func(int m, std::vector<double> a1, std::vector<double> a2, std::vector<double> c, double x1, double x2) {$/;"	f	language:C++
-main	/home/midren/Documents/ucu/axe/mpi/m1.cpp	/^int main(int argc, char** argv) {$/;"	f	language:C++

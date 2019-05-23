@@ -8,7 +8,7 @@
 #include <fstream>
 
 struct IntegralAttributes {
-    std::map<std::string, std::vector<double>> params;
+    std::map<std::string, std::vector<double> > params;
     double absolute_error;
     double relative_error;
     double NThreads;
