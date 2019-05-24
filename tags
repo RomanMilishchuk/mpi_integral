@@ -1,1 +1,4 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+get_current_wall_time_fenced	/home/midren/Documents/ucu/axe/mpi/main.cpp	/^inline best_resolution_cpp_clock::time_point get_current_wall_time_fenced() {$/;"	f	language:C++
+main	/home/midren/Documents/ucu/axe/mpi/main.cpp	/^int main(int argc, char **argv) {$/;"	f	language:C++
+to_us	/home/midren/Documents/ucu/axe/mpi/main.cpp	/^inline uint64_t to_us(const D &d) {$/;"	f	language:C++
